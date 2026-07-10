@@ -1,0 +1,3 @@
+# Today, We Will Be Learning About Simple Array Methods, This Subrepo Contains 6 Methods, All Of Which You'll Hopefully Learn, I Think You Know By Now, You'll Have To Look For Other Sources And Code In Order To Learn The Concept The Best Way, So Using MDN Docs, Watching Videos, Asking AIs, Searching The Web, Anything, Works, Let Me Know If Any Errors Occur, I Hope U Like It!
+
+# Made With Love By Musa!
