@@ -1,0 +1,3 @@
+# Today, We Will Be Learning About The forEach Method, This MethodIs Really Useful, Important To Know, And Will Definitely Come In Use In Various Situations, Its A Brilliant Method, And If You Decide Not To Use It, Thats Completely Fine, Since Developing Your Own Coding Style Will Help You In Your Own Way, This Method Is Also A Bit Confusing To Learn, Soo I Wish You The Best Of Luck, Let Me Know If Any Errors Occur, I Hope U Like It!
+
+# Made With Love By Musa!
