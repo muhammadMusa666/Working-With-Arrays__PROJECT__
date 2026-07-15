@@ -1,0 +1,3 @@
+# Today, We Will Be Learning About The forEach Method With Maps And Sets, This Is A Really Short Subrepo, One Of The Shortest Ive Done, Since It Was Mostly A Detour Subrepo, Meaning About Something That May Come In Handy, And Good To Know, I Dont Have Much To Say About This One, I Just Wish You Learn Something From This, From Past Subrepos, Sections, And Future Ones, Anyways, Let Me Know If Any Errors Occur, I Hope U Like It!
+
+# Made With Love By Musa!
